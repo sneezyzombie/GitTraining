@@ -1,0 +1,5 @@
+﻿  div_operation.c
+C:\Users\Данила\source\repos\TraningSolution\TraningProjectDivOperation\div_operation.c(7,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данила\source\repos\TraningSolution\TraningProjectDivOperation\div_operation.c(8,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Данила\source\repos\TraningSolution\TraningProjectDivOperation\div_operation.c(9,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  TraningProjectDivOperation.vcxproj -> C:\Users\Данила\source\repos\TraningSolution\x64\Debug\TraningProjectDivOperation.exe
