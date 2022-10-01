@@ -9,10 +9,13 @@ int main() {
 
 	if (b != 0) {
 		div = a / b;
+
 		printf("%d / %d = %.2f\n",a, b, div);
 	}
+
 	else
 	{
+
 		printf("divider = 0 !!! \n");
 	}
 	
