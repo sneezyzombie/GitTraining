@@ -4,8 +4,16 @@ int main() {
 	int a, b;
 	float div;
 	scanf_s("%d %d", &a, &b);
-	div = a / b;
-	printf("%d", div);
+
+	if (b != 0) {
+		div = a / b;
+		printf("%d\n", div);
+	}
+	else
+	{
+		printf("divider = 0 !!! \n");
+	}
+	
 	system("pause");
 	return 0;
 }
